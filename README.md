@@ -2,6 +2,8 @@
 Se desarrollo un estudio a una empresa que requería implementar un nuevo aplicativo web para sus empleados, en este proyecto se evidencia todo el desarrollo realizado para dar cumplimiento a lo requerido por la empresa y mejorar la calidad de trabajo de sus empleados. 
 ## Objetivo:
 Desarrollar una propuesta de diseño para un aplicativo web, que permita a los empleados conocer su estatus y ruta de crecimiento laboral/profesional dentro de la empresa.
+## metodologias:
+Para este proyecto se aplicaron métodos de diseño pensado el usuario, técnicas como perfiles de usuarios, técnicas de indagación como entrevistas, encuestas y focus group fueron aplicadas, se realizaron varios análisis a las necesidades de los usuarios y se establecieron tablas de requerimientos funcionales y no funcionales, posterior mente se realizaron prototipos de baja, media y baja fidelidad para definir los diseños finales para la plataforma.  
 ## Plataforma de desarrollo: 
 Adobe XD 2020 , adobe Illustrator 2020 
 ## Imágenes del sistema en funcionamiento: 
